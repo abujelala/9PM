@@ -188,6 +188,7 @@ The following publications are by my collabrators Dr. Varun Kanal and Dr. Akiles
 #TO Do
 ```
 
+
 ##TODO:
 1. Add the Code Folder
 	- Data Recording Code
@@ -196,6 +197,7 @@ The following publications are by my collabrators Dr. Varun Kanal and Dr. Akiles
 2. 	Add a readme files about extracted features with code
 3. Provide more details on how "Random Sequences" were used, and what its data means and which of it was ignored (i.e. the pegs order).
 4. Update this TODO list with more items :)
+
 
 ##Contact me:
 For any questions, please feel free to contact me at firsrname.lastname@tamu.edu. 
