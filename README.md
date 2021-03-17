@@ -2,17 +2,17 @@
 This repository includes a dataset for Behavioral, Performance, and Physiological Data of 63 participants performing modified versions of standard physical and cognitive assessments, in addition to the code that was use to record and analyze the data.
 
 
-##Physical & Cognitive Assessments
-###Physical Assessment
+## Physical & Cognitive Assessments
+### Physical Assessment
 - 9-Hole Peg Test (9-HPT)
 
-###Congitive Assessment Assessment
+### Congitive Assessment Assessment
 - Stroop Test
 - Wisconsin Card Sorting Test (WCST) 
 - The NIH Toolbox Picture Sequence Memory Test (PSMT)
 
-##Behavioral, Performance & Phsyiological Data 
-###Behavioral
+## Behavioral, Performance & Phsyiological Data 
+### Behavioral
 * IMU Data
 * Videos (Not included for participants privacy), but I can include facial markers if anyone is interested in them. Contact me at firstname.lastname@tamu.edu if you are interested.
 * Users Questionnaires about:
@@ -27,18 +27,18 @@ This repository includes a dataset for Behavioral, Performance, and Physiologica
 	9. Feeling Distressed
 	10. Feeling Attentive
 	
-###Performance
+### Performance
 1. Task Score
 2. Move time
 3. Reaction Time
 
-###Phsyiological Data
+### Phsyiological Data
 1. ECG
 2. EEG
 3. EDA
 
 
-##Data Folder
+## Data Folder
 The data folder has the "Raw Data.zip" file, "Extracted Features" folder, and "Random Sequences" folder. The zip file has the raw data that was recording during the experiment. The "Extracted Features" folder has ECG, EDA, EEG, IMU, Performance, and Survey features. The "Random Sequences" folder has details on which peg should be picked up anf where it should be placed. 
 
 After you extract "Raw Data.zip",  you can find the raw data has the following structure:
@@ -163,7 +163,7 @@ Subject_ID
        └── scores-T[TaskID]-[Random_Sequence_ID].csv
 ```
 
-##Citations
+## Citations
 If you use any part of this dataset or code, please cite the following references.
 
 
@@ -189,7 +189,7 @@ The following publications are by my collabrators Dr. Varun Kanal and Dr. Akiles
 ```
 
 
-##TODO:
+## TODO:
 1. Add the Code Folder
 	- Data Recording Code
 	- Data Analysis Code
@@ -199,5 +199,5 @@ The following publications are by my collabrators Dr. Varun Kanal and Dr. Akiles
 4. Update this TODO list with more items :)
 
 
-##Contact me:
+## Contact me:
 For any questions, please feel free to contact me at firsrname.lastname@tamu.edu. 
