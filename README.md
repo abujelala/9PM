@@ -39,7 +39,7 @@ This repository includes a dataset for Behavioral, Performance, and Physiologica
 
 
 ##Data Folder
-The data folder has the "Raw Data.zip" file, "Extracted Features" folder, and "Random Sequences" folder. The zip file has the raw data that was recording during the experiment. The "Extracted Features" folder has 
+The data folder has the "Raw Data.zip" file, "Extracted Features" folder, and "Random Sequences" folder. The zip file has the raw data that was recording during the experiment. The "Extracted Features" folder has ECG, EDA, EEG, IMU, Performance, and Survey features. The "Random Sequences" folder has details on which peg should be picked up anf where it should be placed. 
 
 After you extract "Raw Data.zip",  you can find the raw data has the following structure:
 
@@ -194,7 +194,8 @@ The following publications are by my collabrators Dr. Varun Kanal and Dr. Akiles
 	- Data Analysis Code
 	- ML Code
 2. 	Add a readme files about extracted features with code
-3. Update this TODO list with more items :)
+3. Provide more details on how "Random Sequences" were used, and what its data means and which of it was ignored (i.e. the pegs order).
+4. Update this TODO list with more items :)
 
 ##Contact me:
 For any questions, please feel free to contact me at firsrname.lastname@tamu.edu. 
